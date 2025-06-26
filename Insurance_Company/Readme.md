@@ -32,5 +32,11 @@ This project uses the [Insurance Dataset from Kaggle][(https://www.kaggle.com/sh
 - DAX for calculated measures and time-based KPIs
 - Source data: Insurance datasets over 5+ years
 
+🚀 <ins>**Getting Started**</ins>
+- Clone or download this repository.
+- Open the .pbix file in Power BI Desktop.
+- Load or refresh data from the dataset folder.
+- Interact with the visuals to explore KPIs and industry insights.
+
 
 
