@@ -17,6 +17,15 @@ A dynamic Power BI dashboard designed to analyze healthcare appointment patterns
 - Gender Distribution
 - Wait Time Insight
 - Satisfaction Indicators
+
+✨ <ins>**Highlights**</ins>
+- High visit volumes during AM hours and on weekdays
+- Adult age group is the most represented, followed by teenagers and children
+- Referral sources are most dominant from General Practice, Orthopedics, and Cardiology
+- Department “None” shows largest patient count, indicating walk-ins or undefined referrals
+- Interactive visuals segment patients by gender, age group, and race
+- A satisfaction heatmap illustrates engagement levels across age groups
+
   
 🛠️ <ins>**Tools & Technologies**</ins>
 - Power BI Desktop
